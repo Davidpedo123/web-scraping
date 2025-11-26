@@ -1,0 +1,6 @@
+2025-11-25 21:24:31,879 [ERROR] cliente_http: [service.consultHTTP] Error consulting page 1: Could not find a suitable TLS CA certificate bundle, invalid path: C:\Program Files\PostgreSQL\17\ssl\certs\ca-bundle.crt
+2025-11-25 21:24:31,882 [ERROR] cliente_http: [service.consultHTTP] Error consulting page 2: Could not find a suitable TLS CA certificate bundle, invalid path: C:\Program Files\PostgreSQL\17\ssl\certs\ca-bundle.crt
+2025-11-25 21:24:31,887 [ERROR] cliente_http: [service.consultHTTP] Error consulting page 3: Could not find a suitable TLS CA certificate bundle, invalid path: C:\Program Files\PostgreSQL\17\ssl\certs\ca-bundle.crt
+2025-11-25 21:28:22,503 [ERROR] cliente_http: [service.consultHTTP] Error consulting page 1: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-11-25 21:28:24,671 [ERROR] cliente_http: [service.consultHTTP] Error consulting page 2: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-11-25 21:28:24,921 [ERROR] cliente_http: [service.consultHTTP] Error consulting page 3: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
