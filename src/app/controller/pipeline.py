@@ -1,26 +1,23 @@
+
 from service.consultHTTP import consult_page1, consult_page2, consult_page3
-import os
+from service.transformerData import diff_price
 
-async def run_pipeline():
-    page1_data = await consult_page1()
-    page2_data = await consult_page2()
-    page3_data = await consult_page3()
+from typing import Any, Dict, List, Optional
 
-    out_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'logs', 'html'))
-    os.makedirs(out_dir, exist_ok=True)
 
-    def _save_html(name, content):
-        path = os.path.join(out_dir, f"{name}.html")
-        if isinstance(content, (bytes, bytearray)):
-            with open(path, 'wb') as f:
-                f.write(content)
-        else:
-            with open(path, 'w', encoding='utf-8') as f:
-                f.write(str(content))
-        return path
+# -------------------- Función principal del pipeline --------------------
+async def run_pipeline(usd_to_dop: float = 63.0) -> Dict[str, Any]:
+    """
+    Orquesta la consulta de datos y el análisis completo:
+    1. Consulta las tres páginas.
+    2. Procesa los precios y genera estadísticas.
+    3. Devuelve un resumen con extremos y gráficos.
+    """
+    page1_data = await consult_page1()  
+    page2_data = await consult_page2()  
+    page3_data = await consult_page3()  
 
-    p1_path = _save_html('page1', page1_data)
-    p2_path = _save_html('page2', page2_data)
-    p3_path = _save_html('page3', page3_data)
+    summary = await diff_price(page1_data, page2_data, page3_data, usd_to_dop)
+    return summary
 
-    return p1_path, p2_path, p3_path
+
