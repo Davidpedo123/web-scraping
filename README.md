@@ -63,8 +63,14 @@ aun en proceso
 
 - `extremes.png`: Gráfico comparativo que muestra el precio más barato y el más caro por cada sitio.
 
+  ![extremos2](src/logs/html/extremes.png)
+
 - `extremes_summary.png`: Gráfico detallado con nombres abreviados de los productos más barato y más caro por sitio, incluyendo el conteo total de productos.
 
+   ![extremos](src/logs/html/extremes_summary.png)
+
 - `counts.png` Gráfico que indica la cantidad de productos analizados en cada sitio.
+  
+  ![grafico conteos](src/logs/html/counts.png)
 
 - Las fotos se guardan en `src\logs\html` como `counts.png`, `extremes_summary.png`, `extremes.png`
