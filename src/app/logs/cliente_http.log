@@ -41,3 +41,215 @@
 2025-11-26 15:04:23,527 [INFO] cliente_http: Loaded URLs from .env: https://la.louisvuitton.com/esp-mx/hombre/zapatos/tenis/_/N-t1fud07g, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
 2025-11-26 15:06:16,446 [INFO] cliente_http: Loaded URLs from .env: https://la.louisvuitton.com/esp-mx/hombre/zapatos/tenis/_/N-t1fud07g, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
 2025-11-26 15:06:17,289 [INFO] cliente_http: [service.consultHTTP] Found 1 products on page 2
+2025-11-26 17:57:22,578 [INFO] cliente_http: Loaded URLs from .env: None, None, None
+2025-11-26 17:57:22,685 [ERROR] cliente_http: [service.consultHTTP] Error consulting page 2: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2025-11-26 17:58:39,045 [INFO] cliente_http: Loaded URLs from .env: https://la.louisvuitton.com/esp-mx/hombre/zapatos/tenis/_/N-t1fud07g, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:09:22,277 [INFO] cliente_http: Loaded URLs from .env: https://la.louisvuitton.com/esp-mx/hombre/zapatos/tenis/_/N-t1fud07g, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:11:21,872 [INFO] cliente_http: Loaded URLs from .env: https://la.louisvuitton.com/esp-mx/hombre/zapatos/tenis/_/N-t1fud07g, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:11:22,365 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 18:11:23,467 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 18:13:32,010 [INFO] cliente_http: Loaded URLs from .env: https://la.louisvuitton.com/esp-mx/hombre/zapatos/tenis/_/N-t1fud07g, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:13:32,409 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 18:13:32,410 [INFO] cliente_http: [service.consultHTTP] Products found on page 1: []
+2025-11-26 18:13:34,302 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 18:23:30,643 [INFO] cliente_http: Loaded URLs from .env: https://la.louisvuitton.com/esp-mx/hombre/zapatos/tenis/_/N-t1fud07g, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:23:31,303 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 18:23:31,304 [INFO] cliente_http: [service.consultHTTP] Products found on page 1: []
+2025-11-26 18:24:22,001 [INFO] cliente_http: Loaded URLs from .env: https://la.louisvuitton.com/esp-mx/hombre/zapatos/tenis/_/N-t1fud07g, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:24:22,465 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 0
+2025-11-26 18:24:22,466 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 18:24:22,467 [INFO] cliente_http: [service.consultHTTP] Products found on page 1: []
+2025-11-26 18:28:45,494 [INFO] cliente_http: Loaded URLs from .env: https://la.louisvuitton.com/esp-mx/hombre/zapatos/tenis/_/N-t1fud07g, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:28:46,000 [INFO] cliente_http: [service.consultHTTP] page1 status: 403
+2025-11-26 18:28:46,008 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 0
+2025-11-26 18:28:46,009 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 18:31:57,705 [INFO] cliente_http: Loaded URLs from .env: https://la.louisvuitton.com/esp-mx/hombre/zapatos/tenis/_/N-t1fud07g, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:31:58,227 [INFO] cliente_http: [service.consultHTTP] page1 status: 403
+2025-11-26 18:31:58,235 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 0
+2025-11-26 18:31:58,236 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 18:40:54,407 [INFO] cliente_http: Loaded URLs from .env: https://www.temu.com/search_result.html?search_key=zapatos%20para%20hombre&search_method=suggest&refer_page_el_sn=200252&srch_enter_source=top_search_entrance_10012&sprefix=zapato&_x_enter_scene_type=cate_tab&_x_sessn_id=04oi74r8ed&refer_page_name=category&refer_page_id=10012_1764196524960_hw6l51ltmz&refer_page_sn=10012, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:40:54,769 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 0
+2025-11-26 18:40:54,770 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 18:40:54,770 [INFO] cliente_http: [service.consultHTTP] Products found on page 1: []
+2025-11-26 18:41:22,168 [INFO] cliente_http: Loaded URLs from .env: https://www.temu.com/search_result.html?search_key=zapatos%20para%20hombre&search_method=suggest&refer_page_el_sn=200252&srch_enter_source=top_search_entrance_10012&sprefix=zapato&_x_enter_scene_type=cate_tab&_x_sessn_id=04oi74r8ed&refer_page_name=category&refer_page_id=10012_1764196524960_hw6l51ltmz&refer_page_sn=10012, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:41:22,486 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 18:41:22,487 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 0
+2025-11-26 18:41:22,487 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 18:41:22,488 [INFO] cliente_http: [service.consultHTTP] Products found on page 1: []
+2025-11-26 18:42:51,011 [INFO] cliente_http: Loaded URLs from .env: https://www.temu.com/search_result.html?search_key=zapatos%20para%20hombre&search_method=suggest&refer_page_el_sn=200252&srch_enter_source=top_search_entrance_10012&sprefix=zapato&_x_enter_scene_type=cate_tab&_x_sessn_id=04oi74r8ed&refer_page_name=category&refer_page_id=10012_1764196524960_hw6l51ltmz&refer_page_sn=10012, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:42:51,349 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 18:42:51,352 [INFO] cliente_http: [service.consultHTTP] Retrieved HTML content from page 1 []
+2025-11-26 18:42:51,352 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 0
+2025-11-26 18:42:51,353 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 18:42:51,353 [INFO] cliente_http: [service.consultHTTP] Products found on page 1: []
+2025-11-26 18:45:55,895 [INFO] cliente_http: Loaded URLs from .env: https://www.temu.com/search_result.html?search_key=zapatos%20para%20hombre&search_method=suggest&refer_page_el_sn=200252&srch_enter_source=top_search_entrance_10012&sprefix=zapato&_x_enter_scene_type=cate_tab&_x_sessn_id=04oi74r8ed&refer_page_name=category&refer_page_id=10012_1764196524960_hw6l51ltmz&refer_page_sn=10012, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:45:56,272 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 18:45:56,277 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 0
+2025-11-26 18:45:56,278 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 18:45:56,279 [INFO] cliente_http: [service.consultHTTP] Products found on page 1: []
+2025-11-26 18:54:26,792 [INFO] cliente_http: Loaded URLs from .env: https://www.temu.com/search_result.html?search_key=zapatos%20para%20hombre&search_method=suggest&refer_page_el_sn=200252&srch_enter_source=top_search_entrance_10012&sprefix=zapato&_x_enter_scene_type=cate_tab&_x_sessn_id=04oi74r8ed&refer_page_name=category&refer_page_id=10012_1764196524960_hw6l51ltmz&refer_page_sn=10012, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:54:27,140 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 18:54:27,146 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 0
+2025-11-26 18:54:27,148 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 18:54:27,148 [INFO] cliente_http: [service.consultHTTP] Products found on page 1: []
+2025-11-26 18:54:56,651 [INFO] cliente_http: Loaded URLs from .env: https://www.adidas.com/us/black_friday, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 18:58:55,580 [INFO] cliente_http: Loaded URLs from .env: https://www.adidas.com/us/black_friday, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 19:02:29,600 [INFO] cliente_http: Loaded URLs from .env: https://www.adidas.com/us/black_friday, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 19:02:31,185 [INFO] cliente_http: [service.consultHTTP] page1 status: 403 elapsed=n/a
+2025-11-26 19:02:31,186 [ERROR] cliente_http: [service.consultHTTP] Failed to retrieve page: 403
+2025-11-26 19:03:59,625 [INFO] cliente_http: Loaded URLs from .env: https://www.adidas.com/us/black_friday, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 19:06:30,389 [INFO] cliente_http: Loaded URLs from .env: https://www.adidas.com/us/black_friday, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 19:06:31,076 [INFO] cliente_http: [service.consultHTTP] page1 status: 403
+2025-11-26 19:06:31,082 [WARNING] cliente_http: [service.consultHTTP] Received 403, trying Playwright fallback
+2025-11-26 19:06:31,085 [ERROR] cliente_http: [service.consultHTTP] Playwright not available: No module named 'playwright'
+2025-11-26 19:08:43,129 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 19:08:53,872 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 19:08:54,006 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 0
+2025-11-26 19:08:54,007 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 19:08:54,008 [INFO] cliente_http: [service.consultHTTP] Products found on page 1: []
+2025-11-26 19:13:58,790 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 19:13:59,337 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 19:13:59,552 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 19:13:59,555 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 19:13:59,557 [INFO] cliente_http: [service.consultHTTP] Products found on page 1: [{'nombre': 'Zapatillas Air Jordan 1 Low De Mujer', 'precio': 'RD$8,995.00'}, {'nombre': 'Zapatillas Air Jordan 1 Low de Mujer', 'precio': 'Precio especialRD$4,599.00Ahorra RD$4,396.00EraRD$8,995.00'}, {'nombre': 'Zapatillas Nike Dunk Low Retro De Hombre', 'precio': 'Precio especialRD$5,099.00Ahorra RD$4,896.00EraRD$9,995.00'}, {'nombre': 'Zapatillas Air Jordan 1 Zm Air Cmft 2 de Hombre', 'precio': 'Precio especialRD$9,699.00Ahorra RD$2,796.00EraRD$12,495.00'}, {'nombre': 'Zapatillas Air Jordan 1 Low de Hombre', 'precio': 'RD$9,495.00'}, {'nombre': 'Zapatillas Air Jordan 1 Mid de Mujer', 'precio': 'RD$12,995.00'}, {'nombre': 'Zapatillas Air Jordan 1 Zoom Cmft 2 de Hombre', 'precio': 'Precio especialRD$6,299.00Ahorra RD$6,196.00EraRD$12,495.00'}, {'nombre': 'Zapatillas Air Jordan 3 Retro "Lucky Shorts" de Hombre', 'precio': 'RD$14,995.00'}, {'nombre': 'Gorra Jordan Rise Unisex', 'precio': 'RD$1,995.00'}, {'nombre': 'Zapatillas Air Jordan 1 Low de Hombre', 'precio': 'RD$9,495.00'}, {'nombre': 'Gorra Jordan Club Unstructured Curved-Bill Hat Unisex', 'precio': 'RD$1,995.00'}, {'nombre': 'Pantalón Largo Chicago Parachute de Mujer', 'precio': 'RD$6,495.00'}, {'nombre': 'Pantalón Corto Jordan Essentials Cat Scratch de Hombre', 'precio': 'RD$3,495.00'}, {'nombre': 'Camiseta Jordan Flight Essentials de Hombre', 'precio': 'Precio especialRD$1,799.00Ahorra RD$696.00EraRD$2,495.00'}, {'nombre': 'Pantalón Corto Air Jordan Rare Air French Terry de Hombre', 'precio': 'RD$4,495.00'}, {'nombre': 'Zapatillas Air Jordan 11 Retro de Hombre', 'precio': 'RD$16,995.00'}, {'nombre': 'Zapatillas Air Jordan 1 Low de Hombre', 'precio': 'RD$8,495.00'}, {'nombre': 'Camiseta Brand Bball Ss Crew Rgn de Hombre', 'precio': 'RD$2,495.00'}, {'nombre': 'Pantalón Corto Dri-Fit Sport Dmnd de Hombre', 'precio': 'RD$3,495.00'}, {'nombre': 'Camiseta Jordan Brk 2Air Reissue de Hombre', 'precio': 'RD$2,995.00'}, {'nombre': 'Camiseta Jordan Goalie Top Ddm de Hombre', 'precio': 'RD$6,995.00'}, {'nombre': 'Camiseta Jordan Emb Ss Crew Ddm de Hombre', 'precio': 'RD$2,695.00'}, {'nombre': 'Mochila Jordan Air Patrol Unisex', 'precio': 'RD$2,595.00'}, {'nombre': 'Gorra Jordan Club Unisex', 'precio': 'RD$1,995.00'}]
+2025-11-26 19:20:34,148 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://listado.mercadolibre.com.do/video-juegos/#c_id=/home/categories/element&c_category_id=MRD1144&c_uid=4fe064a4-cc0a-4351-bbc2-c6a22b01a509
+2025-11-26 19:20:34,469 [INFO] cliente_http: [service.consultHTTP] page3 status: 403
+2025-11-26 19:20:34,470 [ERROR] cliente_http: [service.consultHTTP] Failed to retrieve page: 403
+2025-11-26 19:23:41,716 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://www.airjordan.com.mx/
+2025-11-26 19:23:43,029 [INFO] cliente_http: [service.consultHTTP] page3 status: 403
+2025-11-26 19:23:43,030 [ERROR] cliente_http: [service.consultHTTP] Failed to retrieve page: 403
+2025-11-26 19:24:10,255 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 19:24:10,662 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 19:24:10,781 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 0
+2025-11-26 19:24:10,782 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 19:27:39,511 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 19:27:40,218 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 19:27:40,291 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 19:27:40,294 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 19:43:44,870 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 19:43:52,364 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 19:43:52,484 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 19:43:52,487 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 19:43:53,872 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 19:43:54,296 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 19:43:54,365 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 19:43:54,367 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 19:48:05,401 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 19:48:06,592 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 19:48:06,726 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 19:48:06,729 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 19:48:07,681 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 19:48:07,991 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 19:48:08,067 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 19:48:08,069 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 19:49:30,401 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 19:49:31,643 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 19:49:31,775 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 19:49:31,778 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 19:49:32,738 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 19:49:33,020 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 19:49:33,100 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 19:49:33,103 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 19:57:16,945 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 19:57:18,449 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 19:57:18,568 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 19:57:18,571 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 19:57:19,696 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 2: 24
+2025-11-26 19:57:19,701 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 19:57:20,025 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 19:57:20,092 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 19:57:20,094 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 20:01:23,474 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 20:01:25,462 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 20:01:25,592 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 20:01:25,594 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 20:01:26,956 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 2: 24
+2025-11-26 20:01:26,960 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 20:01:27,277 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 20:01:27,344 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 20:01:27,347 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 20:07:55,709 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 20:07:58,340 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 20:07:58,472 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 20:07:58,475 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 20:07:59,750 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 2: 24
+2025-11-26 20:07:59,755 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 20:08:00,215 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 20:08:00,303 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 20:08:00,306 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 20:12:10,464 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 20:12:15,075 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 20:12:15,199 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 20:12:15,202 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 20:12:16,117 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 2: 24
+2025-11-26 20:12:16,132 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 20:12:16,461 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 20:12:16,534 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 20:12:16,536 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 20:16:14,410 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 20:16:16,082 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 20:16:16,200 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 20:16:16,203 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 20:16:17,335 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 2: 24
+2025-11-26 20:16:17,340 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 20:16:17,636 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 20:16:17,722 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 20:16:17,724 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 20:17:00,122 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 20:17:01,694 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 20:17:01,895 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 20:17:01,899 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 20:17:02,794 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 2: 24
+2025-11-26 20:17:02,800 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 20:17:03,185 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 20:17:03,306 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 20:17:03,312 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 20:20:45,172 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 20:20:46,907 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 20:20:47,053 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 20:20:47,057 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 20:20:48,441 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 2: 24
+2025-11-26 20:20:48,449 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 20:20:48,753 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 20:20:48,818 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 20:20:48,821 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 20:28:55,908 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 20:28:57,646 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 20:28:57,760 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 20:28:57,763 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 20:28:58,878 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 2: 24
+2025-11-26 20:28:58,883 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 20:28:59,211 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 20:28:59,289 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 20:28:59,290 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 20:34:05,677 [INFO] cliente_http: Loaded URLs from .env: None, None, None
+2025-11-26 20:34:06,906 [ERROR] cliente_http: [service.consultHTTP] Error consulting page 1: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2025-11-26 20:34:06,908 [ERROR] cliente_http: [service.consultHTTP] Error consulting page 2: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2025-11-26 20:34:06,909 [ERROR] cliente_http: [service.consultHTTP] Error consulting page 3: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+2025-11-26 20:36:01,340 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 20:36:07,644 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 20:36:07,773 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 20:36:07,776 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 20:36:08,628 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 2: 24
+2025-11-26 20:36:08,633 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 20:36:08,966 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 20:36:09,041 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 20:36:09,043 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 20:39:29,344 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 20:39:31,198 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 20:39:31,326 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 20:39:31,328 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 20:39:32,284 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 2: 24
+2025-11-26 20:39:32,289 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 20:39:32,586 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 20:39:32,667 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 20:39:32,670 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
+2025-11-26 21:17:56,348 [INFO] cliente_http: Loaded URLs from .env: https://www.kicks.com.do/marcas/jordan.html, https://www.nike.com/us/es/w/mujeres-black-friday-2phlmz5e1x6, https://citytenis.online/collections/tiendas
+2025-11-26 21:18:04,180 [INFO] cliente_http: [service.consultHTTP] page1 status: 200
+2025-11-26 21:18:04,303 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 1: 24
+2025-11-26 21:18:04,307 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 1
+2025-11-26 21:18:05,315 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 2: 24
+2025-11-26 21:18:05,319 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 2
+2025-11-26 21:18:05,623 [INFO] cliente_http: [service.consultHTTP] page3 status: 200
+2025-11-26 21:18:05,736 [INFO] cliente_http: [service.consultHTTP] Number of products found on page 3: 8
+2025-11-26 21:18:05,739 [INFO] cliente_http: [service.consultHTTP] Successfully consulted page 3
